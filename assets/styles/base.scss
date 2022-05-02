@@ -146,6 +146,7 @@ td, th {
 
     & a {
       background-color: transparent !important;
+      font-family: "JetBrains Mono";
     }
 
     & a[href$="#"] {
@@ -157,7 +158,7 @@ td, th {
 .section {
   & h3 > a {
     font-weight: 700;
-    font-family: Inter;
+    font-family: "JetBrains Mono";
     margin: 0;
   }
   & p {
