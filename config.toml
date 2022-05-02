@@ -1,6 +1,6 @@
 baseURL = "https://omegakid1902.github.io/quartz/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-WDD4K02HML"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
@@ -8,7 +8,7 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
+summaryLength = 10
 paginate = 10
 enableGitInfo = true
 
